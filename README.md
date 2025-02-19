@@ -33,9 +33,9 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 4. Click **SLAs**.
 &nbsp;
 
-![Add SLA Rule](https://i.imgur.com/jSBuMJR.png/600x300)
-![Configure SLA Goals](https://i.imgur.com/ZwNJfYi.png/600x300)
-![Configure SLA Goals](https://i.imgur.com/arfZl9V.png/600x300)
+![Add SLA Rule](https://i.imgur.com/HcJiCr1.png/600x300)
+![Configure SLA Goals](https://i.imgur.com/zYFilbY.png/600x300)
+![Configure SLA Goals](https://i.imgur.com/XRBlaa4.png.png/600x300)
 
 ### Step 2: Create a New SLA
 1. Create a **Name** for our SLA  `High Priority SLA` .
@@ -44,8 +44,8 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 4. Set the start and stop conditions based on the workflow.
 &nbsp;
 ![New SLA Name](https://i.imgur.com/BCVXZdk.png/600x300)
-![New SLA Page](https://i.imgur.com/MBjn9u1.png/600x300)
-![Add Rules](https://i.imgur.com/6VAoNgt.png/600x300)
+![New SLA Page](https://i.imgur.com/zMoW7Fm.png/600x300)
+![Add Rules](https://i.imgur.com/uHTFAg4.png/600x300)
 
 
    
@@ -58,7 +58,7 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 2. Click **Save**
 &nbsp;
 
-![Working Hours](https://i.imgur.com/UhE9no6.png/600x300)
+![Working Hours](https://i.imgur.com/x9sUXAe.png/600x300)
 
 
 >You’ve now configured an SLA in Jira! For more details, visit the [Atlassian Documentation](https://support.atlassian.com/jira-service-management-cloud/docs/configure-slas/).
